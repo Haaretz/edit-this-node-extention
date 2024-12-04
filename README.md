@@ -10,6 +10,8 @@ Installtion
 5. Click on 'Load unpacked' button at the top left corner.
 6. Select the folder where you extracted the zip file.
 
+**Watch installation video here: https://youtu.be/9o0j6DXxYNc**
+
 Usage:
 ------
 1. navigate to any site (Ex': https://www.haaretz.co.il)
